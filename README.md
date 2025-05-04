@@ -109,7 +109,7 @@ Just open `index.html` in your browser to view the UI.
 ---
 
 ## 📸 Screenshots
-
+![Image](https://github.com/user-attachments/assets/196558be-0d06-4d5e-8c0a-1e1f95138bd8)
 
 ---
 
